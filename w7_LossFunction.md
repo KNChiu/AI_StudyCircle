@@ -14,12 +14,17 @@
 因為預測值和實際值的差值有正負，所以不能直接相加，常見的方法有將差值平方變成正數、用絕對值讓差值變成正數
 
 ### 均方誤差(Mean square error，MSE)：       
-預測值與真實值之間差異的均方值   
+     預測值與真實值之間差異的均方值   
+公式：
 
 ![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MSE_formula.png)
 
+例子：    
+
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MSE_examples.png)
+
 ### 平均絕對值誤差(Mean absolute error，MAE)：    
-預測值與真實值之間差異的絕對值
+    預測值與真實值之間差異的絕對值
 
 
 
