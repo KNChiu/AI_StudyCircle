@@ -10,14 +10,16 @@
 損失/殘差、y 表示實際值、 ŷ 表示預測值
 
 ## 回歸：    
-機器學習中最常被用在回歸上的損失函數：
+機器學習中最常被用在回歸上的損失函數：    
 因為預測值和實際值的差值有正負，所以不能直接相加，常見的方法有將差值平方變成正數、用絕對值讓差值變成正數
 
-> 均方誤差(Mean square error，MSE)：    
->>預測值與真實值之間差異的均方值   
+### 均方誤差(Mean square error，MSE)：       
+預測值與真實值之間差異的均方值   
 
-> 平均絕對值誤差(Mean absolute error，MAE)：    
->>預測值與真實值之間差異的絕對值
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MSE_formula.png)
+
+### 平均絕對值誤差(Mean absolute error，MAE)：    
+預測值與真實值之間差異的絕對值
 
 
 
