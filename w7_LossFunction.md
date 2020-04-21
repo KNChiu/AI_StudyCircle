@@ -15,8 +15,8 @@
 
 ### 均方誤差(Mean square error，MSE)：       
      預測值與真實值之間差異的均方值   
-公式：
 
+公式：
 ![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MSE_formula.png)
 
 例子：    
@@ -26,6 +26,7 @@
 
 ### 平均絕對值誤差(Mean absolute error，MAE)：    
     預測值與真實值之間差異的絕對值
+
 
 
 
