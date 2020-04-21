@@ -20,6 +20,7 @@
 ![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MSE_formula.png)
 
 例子：    
+`y1 = 0, y2 = 1, ŷ1 = 100, ŷ2 = -99`
 
 ![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MSE_examples.png)
 
