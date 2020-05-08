@@ -33,12 +33,15 @@
 ### 比較：    
     因為MSE有經過平方，所以不能直接和MAE比較，解決方式就是在MSE上再開根號 Root MSE(RMSE)    
 
+### 曲線比較：
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MAE_MSE_Loss.png) 
+#### 藍色：MSE    
+#### 紅色：MAE    
+
 RMSE：    
 ![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/RMSE_formula.png)    
 
-### 曲線比較：
-![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/MAE_MSE_Loss.png) 
-#### 藍色：MSE    紅色：MAE
+
 
 
 ### 參考資料：[Tommy Huang 機器/深度學習: 基礎介紹-損失函數(loss function) ](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9-%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8-loss-function-2dcac5ebb6cb "機器/深度學習: 基礎介紹-損失函數(loss function)")
