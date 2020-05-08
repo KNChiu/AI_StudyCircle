@@ -3,7 +3,7 @@
 
 ## Normalization (正規化)    
 將原始資料的數據按比例縮放於 [0, 1] 區間中，且不改變其原本分佈。
-
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/w10/None.png)
 
 ## 優點：
-* 提升模型的收斂速度
+### 提升模型的收斂速度
