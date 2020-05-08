@@ -11,5 +11,5 @@
 |4/15|第七週|Classification |
 |4/22|第八週|Loss Function |
 |4/29|第九週|    |
-|5/06|第十週|Normalization |
+|5/06|第十週|Standardization |
   
