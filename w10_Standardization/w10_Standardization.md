@@ -17,9 +17,13 @@
 
 ## Scale (零均值單位方差)
 * 將所有特徵數據縮放成平均為0、平方差為1
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/w10/scale.png)
 
 ## StandardScaler(平均值和標準差)
 * 刪除平均值和縮放到單位方差來標準化
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/w10/StandardScaler.png)
 
 ## MinMaxScaler(最小最大值標準化)
 * 將特徵數據按比例縮放到自訂範圍
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/w10/minmaxscale.png)
+
