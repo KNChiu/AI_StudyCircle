@@ -27,3 +27,7 @@
 * 將特徵數據按比例縮放到自訂範圍    
 ![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/w10/minmaxscale.png)
 
+## 比較
+* 嘗試分別訓練100次後比較準確度
+![image](https://github.com/KNChiu/AI_StudyCircle/blob/master/Picture/w10/Compare.png)
+* 這個圖表不代表標準化方式的優劣，只能表示在這個模型中較適合的方式。
